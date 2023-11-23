@@ -25,7 +25,7 @@ fastapi==0.103.2
 filelock==3.9.0
 Flask==2.2.3
 flatbuffers==23.5.26
-fonttools==4.39.0
+fonttools==4.38.0
 fsspec==2023.3.0
 g2pkk==0.1.2
 gruut==2.2.3
