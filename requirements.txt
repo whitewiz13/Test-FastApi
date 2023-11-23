@@ -26,7 +26,7 @@ filelock==3.9.0
 Flask==2.2.3
 flatbuffers==23.5.26
 fonttools==4.38.0
-fsspec==2023.3.0
+fsspec==2023.1.0
 g2pkk==0.1.2
 gruut==2.2.3
 gruut-ipa==0.13.0
