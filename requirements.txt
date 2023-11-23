@@ -21,7 +21,7 @@ decorator==5.1.1
 docopt==0.6.2
 einops==0.6.0
 exceptiongroup==1.2.0
-fastapi==0.104.1
+fastapi==0.103.2
 filelock==3.9.0
 Flask==2.2.3
 flatbuffers==23.5.26
