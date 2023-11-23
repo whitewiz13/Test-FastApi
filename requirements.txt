@@ -60,7 +60,7 @@ num2words==0.5.12
 numba==0.55.1
 numpy==1.21.6
 onnx==1.14.0
-onnxruntime==1.15.1
+onnxruntime==1.14.1
 onnxruntime-tools==1.7.0
 opencv-python==4.8.0.74
 opencv-python-headless==4.8.0.74
